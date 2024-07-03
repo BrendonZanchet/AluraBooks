@@ -31,6 +31,7 @@
     width: 69vw;
     border-radius: 0 0 20px 20px;
     background-color: var(--branco);
+    list-style-type: none;
 }
 
 .container__botao:checked ~ .lista-menu {
