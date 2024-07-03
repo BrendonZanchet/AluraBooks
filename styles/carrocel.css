@@ -66,6 +66,7 @@
 
 .botões__item{
     margin: 0 0.8em;
+    list-style-type: none;
 }
 
 .botões__ancora{
